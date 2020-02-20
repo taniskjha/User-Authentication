@@ -1,0 +1,18 @@
+{
+  "name": "sign-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "\"Tanisk Jha\"",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
